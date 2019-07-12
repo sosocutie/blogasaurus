@@ -1,5 +1,8 @@
 h1{
-  color: Pink;
+  color: #FFFACD;
   font-weight: 300;
   height: 60px;
+}
+body {
+  font-family: Arial Rounded MT Bold;
 }
